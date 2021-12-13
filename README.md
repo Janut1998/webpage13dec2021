@@ -1,5 +1,6 @@
 # beautiful-tables-
-![Screenshot (74)](https://user-images.githubusercontent.com/90281107/145743369-99fef0ae-54aa-4dd5-8482-7e45e40f912c.png)
-![Screenshot (75)](https://user-images.githubusercontent.com/90281107/145743387-8918d2b1-9729-4071-a7f0-c16a247f1c6c.png)
-![Screenshot (76)](https://user-images.githubusercontent.com/90281107/145743399-1806fe97-d946-403d-a802-cb06d30ecd81.png)
-![Screenshot (77)](https://user-images.githubusercontent.com/90281107/145743419-2da025b2-db88-4b4e-9312-9e9de9ec6ed3.png)
+
+<img width="633" alt="basic" src="https://user-images.githubusercontent.com/90369933/145862915-df92f90a-f0e9-4551-9a53-28ccc43b6b9e.PNG">
+<img width="633" alt="bootstrap" src="https://user-images.githubusercontent.com/90369933/145862948-94721e5f-5068-42c1-be25-bad434e89f5f.PNG">
+<img width="635" alt="server-driven" src="https://user-images.githubusercontent.com/90369933/145862957-a851e085-87dd-4ebb-912c-6f4295eab722.PNG">
+<img width="637" alt="ajax" src="https://user-images.githubusercontent.com/90369933/145862968-2a68b948-bb69-4bfe-866a-47f7f7a0abe4.PNG">
